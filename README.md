@@ -64,8 +64,8 @@ single-page-resume-website/
 ## 📸 Screenshots
 
 <!--
-![Resume Header](screenshots/Screenshot-1.png)
-![Resume Full View](screenshots/Screenshot-2.png)
+![Resume Header](screenshot/Screenshot-1.png)
+![Resume Full View](screenshot/Screenshot-2.png)
 -->
 
 ## 🌐 Live Demo

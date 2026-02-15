@@ -63,17 +63,25 @@ single-page-resume-website/
 
 ## 📸 Screenshots
 
+<!--
 ![Resume Header](screenshots/Screenshot-1.png)
 ![Resume Full View](screenshots/Screenshot-2.png)
+-->
 
 ## 🌐 Live Demo
 
-**Live Website:** [View Resume](https://single-page-resume-website-in-html-virid.vercel.app/)
+## **Live Website:** [View Resume](https://single-page-resume-website-in-html-virid.vercel.app/)
 
+## 📧 Contact
+
+<p align="left">
+  <a href="https://linkedin.com/in/vinayaklambade" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ## 📄 License
 
-This project is open source and available for personal and educational use.
----
+## This project is open source and available for personal and educational use.
 
 **Note:** This is a basic HTML-only resume. For enhanced styling and responsiveness, consider adding CSS in future iterations.

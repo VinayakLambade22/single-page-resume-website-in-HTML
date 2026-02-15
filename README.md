@@ -72,6 +72,8 @@ single-page-resume-website/
 
 ## 📧 Contact
 
+If you have any questions or would like to connect, please feel free to reach out.
+
 <p align="left">
   <a href="https://linkedin.com/in/vinayaklambade" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
